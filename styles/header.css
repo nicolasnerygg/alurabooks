@@ -31,6 +31,9 @@
 .container__imagem {
     padding: 1em;
 }
+.logo__alura {
+    margin-left: 0.8em;
+}
 
 .lista-menu {
     display: none;
